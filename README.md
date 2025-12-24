@@ -73,7 +73,8 @@ GITARTUNING/
 ### 🎸 Tuning Gitar: Halaman khusus untuk melakukan penyeteman nada pada instrumen gitar.
 ### 🎙️ Akses Mikrofon: Sistem memerlukan izin akses mikrofon untuk mendeteksi frekuensi nada secara real-time.
 ### ✅ Tombol Mulai: Pengguna cukup menekan tombol "MULAI TUNING" untuk mengaktifkan pendeteksi nada.
-![Uploading Cuplikan layar 2025-12-25 025656.png…]()
+<img width="1878" height="930" alt="Cuplikan layar 2025-12-25 025656" src="https://github.com/user-attachments/assets/d166d00a-05d3-4b09-bf04-e96927b654ee" />
+
 
 
 
