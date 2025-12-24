@@ -26,3 +26,30 @@
 ### 📚 Modul Pembelajaran: Menyediakan materi dan daftar lagu untuk membantu pengguna belajar tuning dengan lebih mudah.
 
 ### 📜 Log Riwayat: Menyimpan data aktivitas tuning yang telah dilakukan oleh pengguna.
+
+# 📂 Struktur Proyek: GITARTUNING
+### Berikut adalah visualisasi struktur folder dan file dari proyek GITARTUNING yang telah disusun secara sistematis:
+`
+GITARTUNING/
+│
+├── 📂 assets/
+│   └── 📂 css/
+│       └── 📄 style.css               # Mengatur tampilan dan estetika aplikasi
+│
+├── 📂 config/
+│   └── 🐘 koneksi.php                # Jembatan penghubung antara PHP dan database MySQL
+│
+├── 📂 includes/
+│   ├── 🐘 footer.php                 # Berisi elemen kaki halaman yang konsisten
+│   └── 🐘 header.php                 # Berisi elemen navigasi dan bagian atas halaman
+│
+├── 🐘 dashboard.php                  # Panel utama pengguna untuk memilih alat musik
+├── 🐘 index.php                      # Gerbang utama aplikasi dan sistem login
+├── 🐘 lagu.php                       # Menampilkan daftar koleksi lagu yang tersedia
+├── 🐘 logout.php                     # Proses untuk keluar dari akun secara aman
+├── 🐘 materi.php                     # Pusat informasi dan materi pembelajaran tuning
+├── 🐘 riwayat.php                    # Rekam jejak aktivitas tuning yang pernah dilakukan
+├── 🐘 tuning.php                     # Antarmuka utama untuk proses tuning instrumen
+├── 🐘 view_chord.php                 # Halaman detail untuk melihat struktur chord
+└── 🐘 view_materi.php                # Halaman pembaca konten materi edukasi
+`
