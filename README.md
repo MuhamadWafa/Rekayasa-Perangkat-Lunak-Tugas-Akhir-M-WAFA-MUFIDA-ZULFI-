@@ -4,28 +4,25 @@
 # TI. 24. A4
 # Karina Imelda, S. Kom., M.Kom.
 # Rekayasa Perangkat Lunak
-## Laporan Pengerjaan Proyek: UPIT TUNING
-Dalam mengembangkan aplikasi web UPIT TUNING (Aplikasi Tuning Instrumen Musik), saya menggunakan kombinasi teknologi web development standar industri untuk memastikan aplikasi berjalan dengan fungsional dan memiliki tampilan yang responsif.
-
-### 🚀 Laporan Pengembangan Proyek: UPIT TUNING
+## 🚀 Laporan Pengembangan Proyek: UPIT TUNING
 Saya telah menyelesaikan pengembangan aplikasi web UPIT TUNING dengan mengintegrasikan berbagai teknologi pengembangan modern untuk menciptakan pengalaman pengguna yang optimal.
+###🛠️ Teknologi yang Digunakan
+🐘 PHP: Digunakan sebagai mesin utama di sisi server (back-end). Berdasarkan file index.php, PHP mengelola logika bisnis seperti sistem login, manajemen session pengguna, serta pengolahan data dinamis dari database.
 
-MySQL: Digunakan sebagai sistem manajemen database (RDBMS). Terlihat dari struktur tabel di phpMyAdmin, database gitartuning memiliki 5 tabel utama: instrumen, lagu, materi, riwayat_tuning, dan users.
+🗄️ MySQL: Berperan sebagai pusat penyimpanan data. Melalui database gitartuning, saya mengelola 5 tabel utama (instrumen, lagu, materi, riwayat_tuning, dan users) untuk memastikan data tersimpan secara terstruktur.
 
-CSS (Bootstrap): Untuk tampilan (front-end), saya menggunakan CSS yang dibantu dengan framework Bootstrap 5 (terlihat dari link CDN di bagian <head>). Hal ini memberikan tampilan yang modern, bersih, dan kartu-kartu menu yang rapi pada halaman dashboard.
+🎨 CSS (Bootstrap 5): Untuk sisi visual, saya menggunakan CSS dengan bantuan framework Bootstrap. Ini memberikan tampilan antarmuka yang bersih, kartu menu yang modern pada dashboard, dan desain yang responsif di berbagai perangkat.
 
-### 2. Tools & Lingkungan Pengembangan
-Visual Studio Code (VS Code): Saya menggunakan VS Code sebagai code editor utama. Editor ini memudahkan saya dalam mengelola struktur folder proyek (seperti folder assets, config, includes) serta melakukan pengkodean dengan fitur syntax highlighting yang jelas.
+### 💻 Tools & Lingkungan Pengembangan
+📝 Visual Studio Code: Saya menggunakan VS Code sebagai editor kode andalan. Dengan fitur IntelliSense dan struktur folder yang rapi, proses penulisan kode PHP dan CSS menjadi lebih efisien dan terorganisir.
 
-XAMPP: Saya menggunakan XAMPP sebagai perangkat lunak local server. XAMPP menjalankan Apache untuk mengeksekusi skrip PHP dan MySQL untuk mengelola database lokal melalui antarmuka phpMyAdmin yang diakses via browser.
+🧡 XAMPP: Sebagai local server pilihan, XAMPP memungkinkan saya menjalankan Apache dan MySQL secara bersamaan. Saya juga memanfaatkan phpMyAdmin untuk memantau dan mengelola struktur database secara langsung.
 
-### 3. Fitur Utama yang Dikembangkan
-Berdasarkan struktur file dan database, aplikasi ini memiliki beberapa fitur kunci:
+###✨ Fitur Utama Aplikasi
+🔐 Autentikasi User: Sistem login yang aman untuk memvalidasi akses pengguna.
 
-Sistem Login: Keamanan akses menggunakan verifikasi username dan password.
+🎸 Multi-Instrument: Pilihan tuning untuk berbagai alat musik seperti Gitar, Bass, dan Ukulele.
 
-Dashboard Interaktif: Menu pilihan alat musik (Gitar, Bass, Ukulele).
+📚 Modul Pembelajaran: Menyediakan materi dan daftar lagu untuk membantu pengguna belajar tuning dengan lebih mudah.
 
-Manajemen Konten: Tabel untuk menyimpan data lagu dan materi pembelajaran tuning.
-
-Riwayat Tuning: Fitur untuk mencatat aktivitas tuning yang telah dilakukan oleh pengguna.
+📜 Log Riwayat: Menyimpan data aktivitas tuning yang telah dilakukan oleh pengguna.
