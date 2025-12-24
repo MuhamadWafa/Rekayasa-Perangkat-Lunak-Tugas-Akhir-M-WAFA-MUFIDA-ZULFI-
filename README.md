@@ -18,7 +18,7 @@
 
 ### 🧡 XAMPP: Sebagai local server pilihan, XAMPP memungkinkan saya menjalankan Apache dan MySQL secara bersamaan. Saya juga memanfaatkan phpMyAdmin untuk memantau dan mengelola struktur database secara langsung.
 
-#✨ Fitur Utama Aplikasi
+# ✨ Fitur Utama Aplikasi
 ### 🔐 Autentikasi User: Sistem login yang aman untuk memvalidasi akses pengguna.
 
 ### 🎸 Multi-Instrument: Pilihan tuning untuk berbagai alat musik seperti Gitar, Bass, dan Ukulele.
