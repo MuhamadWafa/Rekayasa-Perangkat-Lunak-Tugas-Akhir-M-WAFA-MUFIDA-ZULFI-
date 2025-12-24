@@ -55,8 +55,7 @@ GITARTUNING/
 ```
 
 # 🔐 Halaman Login UPIT
-Gambar tersebut adalah menu login atau pintu masuk utama ke aplikasi GITAR TUNING.
-Fungsi: Digunakan untuk memvalidasi identitas pengguna agar bisa masuk ke sistem.
-Input: Pengguna perlu memasukkan Username dan Password yang terdaftar.
-Keamanan: Berdasarkan kode programnya, sistem akan memeriksa kecocokan data di database sebelum mengizinkan akses ke halaman dashboard.
+```
+### Gambar tersebut adalah menu login atau pintu masuk utama ke aplikasi GITAR TUNING. Fungsi: Digunakan untuk memvalidasi identitas pengguna agar bisa masuk ke sistem. Input: Pengguna perlu memasukkan Username dan Password yang terdaftar. Keamanan: Berdasarkan kode programnya, sistem akan memeriksa kecocokan data di database sebelum mengizinkan akses ke halaman dashboard.
+```
 <img width="1918" height="1126" alt="Cuplikan layar 2025-12-25 025046" src="https://github.com/user-attachments/assets/a116a7f5-f0d3-47dc-ac37-26095b831836" />
