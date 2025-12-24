@@ -75,6 +75,15 @@ GITARTUNING/
 ### ✅ Tombol Mulai: Pengguna cukup menekan tombol "MULAI TUNING" untuk mengaktifkan pendeteksi nada.
 <img width="1878" height="930" alt="Cuplikan layar 2025-12-25 025656" src="https://github.com/user-attachments/assets/d166d00a-05d3-4b09-bf04-e96927b654ee" />
 
+# 📚 Materi Pembelajaran: Galeri edukasi yang berisi panduan teknik bermain musik, dikategorikan dari level Pemula hingga Mahir.
+<img width="1891" height="942" alt="Cuplikan layar 2025-12-25 030033" src="https://github.com/user-attachments/assets/5eee4b0c-7387-4974-acdb-dc995886e697" />
 
-
+# 🎵 Daftar Koleksi Lagu
+### Halaman ini merupakan pustaka lagu yang membantu pengguna mempraktikkan hasil tuning mereka dengan memainkan musik favorit.
+### 🎼 Informasi Lengkap: Menampilkan tabel terstruktur yang berisi Judul Lagu, nama Penyanyi, dan tingkat kesulitan.
+### 📶 Klasifikasi Tingkat: Setiap lagu dikategorikan berdasarkan kemampuan pengguna, seperti Pemula (hijau), Menengah (kuning), dan Mahir (merah).
+### 🎸 Akses Chord: Dilengkapi dengan tombol "Lihat Chord" di setiap baris lagu untuk langsung melihat panduan kunci gitar atau instrumen lainnya.
+### 🔙 Navigasi Cepat: Terdapat tombol "Kembali ke Menu Utama" untuk memudahkan pengguna beralih antar fitur dengan praktis.
+<img width="1861" height="982" alt="Cuplikan layar 2025-12-25 030311" src="https://github.com/user-attachments/assets/0b60bccf-cc02-4d0e-a1ca-5f7aa0bdae23" />
+<img width="516" height="475" alt="image" src="https://github.com/user-attachments/assets/934d36a9-c1fa-4569-b5c2-b39357374668" />
 
