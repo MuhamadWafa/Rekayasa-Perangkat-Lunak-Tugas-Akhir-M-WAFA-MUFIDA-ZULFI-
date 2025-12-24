@@ -63,11 +63,17 @@ GITARTUNING/
 
 # 🏠 Menu Utama / Dashboard UPIT TUNING
 ### Ini adalah halaman Dashboard atau tampilan utama setelah pengguna berhasil masuk ke dalam aplikasi.
-
 ### 👋 Sapaan Pengguna: Terdapat pesan selamat datang "Halo, admin!" yang menandakan pengguna telah berhasil login.
-
 ### 🎸 Pilihan Alat Musik: Menu utama menyajikan tiga kartu pilihan instrumen, yaitu Gitar, Bass, dan Ukulele.
-
 ### 🛠️ Fitur Interaktif: Setiap alat musik memiliki tombol "Mulai Tuning" untuk memulai proses penyeteman dan tombol "Materi Pembelajaran" untuk edukasi.
-
 ### 🧭 Navigasi Atas: Terdapat bar navigasi untuk mengakses menu lain seperti Pilih Alat, Materi, Daftar Lagu, dan tombol Logout untuk keluar dari aplikasi.
+<img width="1919" height="1137" alt="Cuplikan layar 2025-12-25 023529" src="https://github.com/user-attachments/assets/487059fd-3693-47f8-9e54-495b9de85eaa" />
+
+# 🎸 Tuning Gitar: 
+### 🎸 Tuning Gitar: Halaman khusus untuk melakukan penyeteman nada pada instrumen gitar.
+### 🎙️ Akses Mikrofon: Sistem memerlukan izin akses mikrofon untuk mendeteksi frekuensi nada secara real-time.
+### ✅ Tombol Mulai: Pengguna cukup menekan tombol "MULAI TUNING" untuk mengaktifkan pendeteksi nada.
+![Uploading Cuplikan layar 2025-12-25 025656.png…]()
+
+
+
