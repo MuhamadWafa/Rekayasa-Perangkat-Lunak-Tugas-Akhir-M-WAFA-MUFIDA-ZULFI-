@@ -29,7 +29,7 @@
 
 # 📂 Struktur Proyek: GITARTUNING
 ### Berikut adalah visualisasi struktur folder dan file dari proyek GITARTUNING yang telah disusun secara sistematis:
-
+```
 GITARTUNING/
 │
 ├── 📂 assets/
@@ -52,4 +52,4 @@ GITARTUNING/
 ├── 🐘 tuning.php                     # Antarmuka utama untuk proses tuning instrumen
 ├── 🐘 view_chord.php                 # Halaman detail untuk melihat struktur chord
 └── 🐘 view_materi.php                # Halaman pembaca konten materi edukasi
-
+```
