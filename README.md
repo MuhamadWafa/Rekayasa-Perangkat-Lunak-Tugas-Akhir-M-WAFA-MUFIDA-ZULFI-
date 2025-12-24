@@ -87,3 +87,6 @@ GITARTUNING/
 <img width="1861" height="982" alt="Cuplikan layar 2025-12-25 030311" src="https://github.com/user-attachments/assets/0b60bccf-cc02-4d0e-a1ca-5f7aa0bdae23" />
 <img width="516" height="475" alt="image" src="https://github.com/user-attachments/assets/934d36a9-c1fa-4569-b5c2-b39357374668" />
 
+# 📜 Halaman Riwayat Tuning
+### Halaman ini berfungsi sebagai catatan personal untuk memantau aktivitas tuning yang telah dilakukan oleh pengguna.
+<img width="1916" height="702" alt="Cuplikan layar 2025-12-25 030606" src="https://github.com/user-attachments/assets/6e7d6dd7-b719-4cec-914d-901a0c172f2a" />
