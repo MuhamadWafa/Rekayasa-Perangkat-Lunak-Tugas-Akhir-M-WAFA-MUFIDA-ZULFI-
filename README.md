@@ -7,8 +7,8 @@
 ## Laporan Pengerjaan Proyek: UPIT TUNING
 Dalam mengembangkan aplikasi web UPIT TUNING (Aplikasi Tuning Instrumen Musik), saya menggunakan kombinasi teknologi web development standar industri untuk memastikan aplikasi berjalan dengan fungsional dan memiliki tampilan yang responsif.
 
-### 1. Teknologi yang Digunakan (Tech Stack)
-PHP: Digunakan sebagai bahasa pemrograman di sisi server (back-end). Berdasarkan kode di index.php, PHP menangani logika autentikasi login, sesi pengguna (session_start), dan komunikasi dengan database menggunakan ekstensi mysqli.
+### 🚀 Laporan Pengembangan Proyek: UPIT TUNING
+Saya telah menyelesaikan pengembangan aplikasi web UPIT TUNING dengan mengintegrasikan berbagai teknologi pengembangan modern untuk menciptakan pengalaman pengguna yang optimal.
 
 MySQL: Digunakan sebagai sistem manajemen database (RDBMS). Terlihat dari struktur tabel di phpMyAdmin, database gitartuning memiliki 5 tabel utama: instrumen, lagu, materi, riwayat_tuning, dan users.
 
